@@ -1,6 +1,6 @@
 class Product:
     discount_price = 0.85
-    product_list =[]
+    product_list = []
 
     def __init__(self, product_name, price, amount):
         self.product_name = product_name

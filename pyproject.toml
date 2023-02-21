@@ -10,6 +10,7 @@ packages = [{include = "electronics_shop"}]
 python = "^3.8"
 requests = "^2.28.2"
 pytest = "^7.2.1"
+coverage = "^7.1.0"
 
 
 [tool.poetry.group.dev.dependencies]
